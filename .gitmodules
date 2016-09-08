@@ -1,0 +1,6 @@
+[submodule "test-project-2"]
+	path = test-project-2
+	url = git@github.com:dlinten/test-project-2.git
+[submodule "test-project-3"]
+	path = test-project-3
+	url = git@github.com:dlinten/test-project-3.git
