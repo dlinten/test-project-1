@@ -4,3 +4,6 @@
 [submodule "test-project-3"]
 	path = test-project-3
 	url = git@github.com:dlinten/test-project-3.git
+[submodule "test-project-3-master"]
+	path = test-project-3-master
+	url = git@github.com:dlinten/test-project-3.git
